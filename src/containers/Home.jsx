@@ -1,4 +1,3 @@
-// import { Component } from "react";
 import Contact from "../pages/Contact";
 import About from "../pages/AboutMe";
 import Portolio from "../pages/Portofolio";
