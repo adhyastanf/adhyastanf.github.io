@@ -8,7 +8,7 @@ const About = () => {
       <section>
         <p className="text-black/25 mb-12">
           Hi! I'm Adhyasta Naufal Faadhilah. I'm a college student at Bandung,Indonesia
-          <br /> and basketball enthusiast. I don't have much experience in making a website
+          <br /> and basketball enthusiast. I still learn making a website for to be an expert website developer.
           <br />
           <span className="text-black/50">adhyasta.nf@gmail.com</span>
         </p>
